@@ -2,7 +2,8 @@
 NBA - Daily Scores Project
 =====
 
-Inspired by microwavesam's video, the NBA daily scores project is designed to 
+Inspired by [Microwavesam's video](https://www.youtube.com/watch?v=nBw-wa1fq5g)
+The NBA daily scores project is designed to 
 show NBA team scores for that day. 
 
 Quick Start
