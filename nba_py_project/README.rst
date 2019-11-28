@@ -8,8 +8,8 @@ show NBA team scores for that day.
 Quick Start
 -----------
 
-1. get ::pip
-2. Use pip to install git :: pip install git
+1. install `pip`, which is used for installing Python packages
+2. Use `pip` to install `git`
 
 
 4. Start the development server and visit http://127.0.0.1:8000/admin/
