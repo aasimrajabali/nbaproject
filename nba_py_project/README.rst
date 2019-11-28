@@ -2,7 +2,6 @@
 NBA - Daily Scores Project
 =====
 
-Inspired by [Microwavesam's video](https://www.youtube.com/watch?v=nBw-wa1fq5g)
 The NBA daily scores project is designed to 
 show NBA team scores for that day. 
 
@@ -19,3 +18,6 @@ Quick Start
    ``import nba_py``
 5. Still inside nba_py: ``pip install Flask``
 6. From ``nba_py_project`` directory: ``python __init__.py``
+
+Inspired by Microwavesam's Repo: 
+https://github.com/huyle333/bballfast
